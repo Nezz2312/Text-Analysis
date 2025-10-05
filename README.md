@@ -1,4 +1,4 @@
-# Z639 Assignment 1 — Toxic Comment Classification
+# Social Media Mining Assignment 1 — Toxic Comment Classification
 
 **Author:** Neha Kothavade  
 **Course:** Social Media Mining  
