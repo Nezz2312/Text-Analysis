@@ -1,4 +1,4 @@
-# Social Media Mining Assignment 1 — Toxic Comment Classification
+# Assignment 1 — Toxic Comment Classification
 
 **Author:** Neha Kothavade  
 **Course:** Social Media Mining  
