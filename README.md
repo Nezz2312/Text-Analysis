@@ -17,4 +17,6 @@
 
 ## Notes
 - Decision threshold chosen via F1 sweep on validation split.
-- Baseline: TF-IDF + Logistic Regression. Final: Fine-tuned BERT.
+  
+- Baseline: TF-IDF + Logistic Regression. 
+  Final: Fine-tuned BERT.
