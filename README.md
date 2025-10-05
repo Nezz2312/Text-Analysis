@@ -5,9 +5,9 @@
 **Date:** Sept 27, 2025
 
 ## Contents
-- `Neha-Kothavade-assignment1.pdf` — final report
-- `Neha-Kothavade-assignment1.ipynb` — reproducible notebook
-- `Neha-Kothavade-assignment1-prediction.csv` — submission file (platform_id, prediction)
+- `Neha-Kothavade-assignment1.pdf` — report
+- `Neha-Kothavade-assignment1.ipynb` — jupyter notebook
+- `Neha-Kothavade-assignment1-prediction.csv` — csv file (platform_id, prediction)
 - `supplemental_materials.zip` — artifacts (confusion matrices, PR curve, env versions, models)
 
 ## Reproducibility
